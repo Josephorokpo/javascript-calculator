@@ -44,6 +44,9 @@ Precision handling for calculations, ensuring accurate results to several decima
 - Press = to evaluate the expression.
 - Press C to clear the display and start over.
 
+## Demo:  
+ https://josephorokpo.github.io/javascript-calculator/
+
 ## Deployment
 This project can be deployed on GitHub Pages. To do so, ensure the homepage field in package.json is set to "https://yourusername.github.io/javascript-calculator". Then, run:
  npm run deploy
