@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Display = ({ value }) => {
-  return (
-    <div id="display">
-      {value}
-    </div>
-  );
-};
+function Display({ expression, currentValue }) {
+    return (
+        <div id="display">
+            {expression || currentValue}
+        </div>
+    );
+}
 
 export default Display;
