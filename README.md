@@ -52,3 +52,6 @@ This project can be deployed on GitHub Pages. To do so, ensure the homepage fiel
  npm run deploy
 
 This will build the project and push the static files to the gh-pages branch, making it live on GitHub Pages.
+
+## Acknowledgments
+This project is based on the FreeCodeCamp Javascript-calculator project. It serves as a practical implementation of React.js and CSS skills.
